@@ -36,5 +36,5 @@ Assessment reporting, performance levels, and growth analysis.
 ---
 
 ## Attendance Analytics
-![attendance](attendance_overview.png)
+![attendance](screenshots/attendance/attendance_overview.png)
 Attendance trends and chronic absenteeism monitoring.
