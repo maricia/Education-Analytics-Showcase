@@ -30,7 +30,7 @@ College, Career, and Military Readiness reporting.
 
 ## Assessment Analytics
 
-![assessment](screenshots/assessment/assmentlookup.png)
+![assessment](screenshots/assessment/assessmentlookup.png)
 Assessment reporting, performance levels, and growth analysis.
 
 ---
